@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         body: NoScrollGlow(
           child: ListView.builder(
             itemCount: 10000,
-            itemBuilder: (context, i){
+            itemBuilder: (context, i) {
               return ListTile(
                 title: Text('$i'),
               );
