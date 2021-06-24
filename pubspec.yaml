@@ -1,10 +1,10 @@
 name: no_scroll_glow
 description: A Scroll behavior like android's scroll behavior but without the glow.
-version: 0.1.0
+version: 1.0.0
 homepage: https://github.com/ali2236/no_scroll_glow
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
